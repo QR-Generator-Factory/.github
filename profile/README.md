@@ -77,7 +77,6 @@ Ideal for businesses, marketers, designers, and everyday users who want to gener
 ## 🖼️ Screenshots
 
 ![Screenshot 1](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/17/89/361789f6-17a2-b50b-a79a-d12d13203d1a/b62989a7-dd0f-4425-bb3b-807bc4fa35e6_updatedsmartpath.png/643x0w.jpg)  
-![Screenshot 2](https://static.macupdate.com/screenshots/347276/m/qr-factory-screenshot.png?v=1666333922)  
 
 ---
 
